@@ -52,9 +52,9 @@ Below is the comprehensive dashboard interface showcasing real-time vehicle diag
 
 <img width="1075" height="633" alt="z7702152146556_c415a95fe7ca4abb34db6ee9fba14369" src="https://github.com/user-attachments/assets/88ed39e0-54a9-45e2-b388-b3197fe82b6d" />
 
-<img width="519" height="874" alt="image" src="https://github.com/user-attachments/assets/437a4c46-2a60-4302-9060-467fb80b063c" />
+<img width="519" height="874" alt="image" src="https://github.com/user-attachments/assets/437a4c46-2a60-4302-9060-467fb80b063c" /> <img width="499" height="850" alt="image" src="https://github.com/user-attachments/assets/98992eb7-31f8-410e-a317-1423c0c62763" />
 
-<img width="499" height="850" alt="image" src="https://github.com/user-attachments/assets/98992eb7-31f8-410e-a317-1423c0c62763" />
+
 
 
 ---
