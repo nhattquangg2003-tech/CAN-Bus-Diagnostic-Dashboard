@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/resource">
+        <file>assets/font/digital-7.ttf</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>assets/purple.png</file>
+        <file>assets/background.jpg</file>
+        <file>assets/device_thermostat_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>assets/local_gas_station_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>assets/abs1.png</file>
+        <file>assets/airbag1.png</file>
+        <file>assets/battery1.png</file>
+        <file>assets/engine.png</file>
+        <file>assets/oilpressure1.png</file>
+        <file>assets/brake-system-warning.png</file>
+        <file>assets/temp.png</file>
+        <file>assets/backgroundTest.jpg</file>
+        <file>assets/carback.png</file>
+        <file>assets/chart.png</file>
+        <file>assets/error.png</file>
+        <file>assets/nornal.png</file>
+    </qresource>
+</RCC>
