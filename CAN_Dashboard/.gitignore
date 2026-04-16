@@ -1,6 +1,0 @@
-build/
-Desktop_*/
-cmake-build*/
-*.user
-*.pro.user*
-.qtcreator/
