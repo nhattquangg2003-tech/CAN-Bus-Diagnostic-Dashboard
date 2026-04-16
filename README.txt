@@ -1,6 +1,6 @@
 # Vehicle Health & Diagnostics (CAN Dashboard) 🚗
 
-A high-performance automotive digital cluster simulation built with **Qt 6.10**, **C++**, and **QML**. This project features a custom hardware-to-software integration using a physical **CAN bus** network and an STM32-based Gateway.
+A high-performance automotive digital cluster simulation built with **Qt 6.10**, **C++**, and **QML**. This project features a custom hardware-to-software integration using a physical **CAN bus** network.
 
 ## 🚀 Key Features
 * **Real-time Monitoring:** Visualizes Speed, RPM, Fuel, and Engine Temperature with zero latency.
@@ -33,3 +33,16 @@ I implemented a modular **MVC + Service Layer** architecture:
 * [ ] Remote diagnostics via Wi-Fi/4G and Cloud data synchronization.
 
 ---
+
+## 🎨 UI/UX Dashboard
+Below is the comprehensive dashboard interface showcasing real-time vehicle diagnostics:
+
+![CAN Dashboard UI](https://github.com/nhattquangg2003-tech/CAN-Bus-Diagnostic-Dashboard/raw/main/assets/dashboard_screenshot.png)
+
+**Dashboard Features:**
+* 🔴 **Speedometer:** High-precision speed gauge (0-200 km/h)
+* 🟠 **Tachometer:** Engine RPM display with red-line warning at 7000 RPM
+* 🟡 **Fuel Gauge:** Real-time fuel level indicator
+* 🟢 **Temperature Gauge:** Engine coolant temperature with overheat alert (>105°C)
+* 🔵 **Diagnostic Panel:** Live DTC display with color-coded severity levels
+* ⚪ **Status Indicators:** System health, connection status, and alert notifications
