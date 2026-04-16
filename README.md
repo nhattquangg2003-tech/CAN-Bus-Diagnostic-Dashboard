@@ -1,4 +1,4 @@
-
+<img width="1280" height="599" alt="image" src="https://github.com/user-attachments/assets/0f82a923-5799-4133-85f0-830d98632cdd" />
 
 # Vehicle Health & Diagnostics (CAN Dashboard) 🚗
 
@@ -52,7 +52,8 @@ Below is the comprehensive dashboard interface showcasing real-time vehicle diag
 
 <img width="1075" height="633" alt="z7702152146556_c415a95fe7ca4abb34db6ee9fba14369" src="https://github.com/user-attachments/assets/88ed39e0-54a9-45e2-b388-b3197fe82b6d" />
 
-
+---
+*Developed by Nhat Quang and Quang Khanh - Our journey in Automotive Software at FPT CRANES.*
 
 
 
