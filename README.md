@@ -1,3 +1,4 @@
+
 # Vehicle Health & Diagnostics (CAN Dashboard) 🚗
 
 A high-performance automotive digital cluster simulation built with **Qt 6.10**, **C++**, and **QML**. This project features a custom hardware-to-software integration using a physical **CAN bus** network.
@@ -37,7 +38,9 @@ I implemented a modular **MVC + Service Layer** architecture:
 ## 🎨 UI/UX Dashboard
 Below is the comprehensive dashboard interface showcasing real-time vehicle diagnostics:
 
-![CAN Dashboard UI](https://github.com/nhattquangg2003-tech/CAN-Bus-Diagnostic-Dashboard/raw/main/assets/dashboard_screenshot.png)
+<img width="1075" height="633" alt="z7702152146556_c415a95fe7ca4abb34db6ee9fba14369" src="https://github.com/user-attachments/assets/88ed39e0-54a9-45e2-b388-b3197fe82b6d" />
+
+<img width="1749" height="1050" alt="z7690051643039_0860339d50d19207d29ea957b8598c45" src="https://github.com/user-attachments/assets/cfa38042-dcfa-4800-85bb-2a02806481bc" />
 
 **Dashboard Features:**
 * 🔴 **Speedometer:** High-precision speed gauge (0-200 km/h)
