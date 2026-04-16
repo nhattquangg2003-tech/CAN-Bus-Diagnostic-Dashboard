@@ -1,4 +1,4 @@
-<img width="1280" height="599" alt="image" src="https://github.com/user-attachments/assets/0f82a923-5799-4133-85f0-830d98632cdd" />
+
 
 # Vehicle Health & Diagnostics (CAN Dashboard) 🚗
 
